@@ -5,11 +5,13 @@
 
 Landing Page for Showroom.pl, an online fashion marketplace. It was built using Vanilla JS, SCSS, and Vite.
 
-- **Online version**: [Open live demo] (https://shwrm-celebrate-womens-day.netlify.app)
+- **Online version**: [Open live demo](https://shwrm-celebrate-womens-day.netlify.app)
 
 &nbsp;
 
-https://github.com/patrycjapetryk/shwrm-celebrate-womens-day/assets/51820512/0d7183f6-3e13-4ed7-91c2-a1a0fc9852b0
+
+https://github.com/patrycjapetryk/shwrm-celebrate-womens-day/assets/51820512/a2e522c2-6d3c-4e58-a061-a5250c4dc3fc
+
 
 &nbsp;
 
