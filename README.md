@@ -9,13 +9,13 @@ Landing Page for Showroom.pl, an online fashion marketplace. It was built using 
 
 &nbsp;
 
-https://github.com/patrycjapetryk/shwrm-celebrate-womens-day/assets/51820512/2af10cf6-4d23-4caf-90b5-d50dfab7e59c
+https://github.com/patrycjapetryk/shwrm-celebrate-womens-day/assets/51820512/0d7183f6-3e13-4ed7-91c2-a1a0fc9852b0
 
 &nbsp;
 
-## How to use my project
+## How to use it?
 
-Download project, install dependencies and run the following command:
+Download it, install dependencies and run the following command:
 
 ```sh
 npm run dev
